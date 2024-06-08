@@ -1,0 +1,28 @@
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+} */
+
+.dt_margin {
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+/* .dt_footer_background {
+    background-color: black;
+    height: 80px;
+    width: 100%;
+    border-width: 3px;
+    border-style: solid;
+    border-color: black;
+    margin-top: 80px;
+}
+
+.dt_copyright {
+    color: white;
+    text-align: center;
+    font-size: 14px;
+    margin-top: 20px;
+} */
